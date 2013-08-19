@@ -1,0 +1,24 @@
+{
+  "name": "data-object",
+  "version": "0.0.0",
+  "description": "Experimental data model layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:parshap/data-object.git"
+  },
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/parshap/data-object/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.5.1"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  }
+}
